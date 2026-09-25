@@ -1,0 +1,3 @@
+python -m plsqlmig.cli sample/ --dry-run --pyspark-all --pyspark-out out_all.py 
+ python -m plsqlmig.cli sample  --dry-run --pyspark-out out_pyspark.py                                                                                                                                  
+ 
